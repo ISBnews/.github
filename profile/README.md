@@ -26,7 +26,6 @@ This project provides hands-on experience in web and app development, including 
 ## Copyright
 
 **Last Updated:** 2026  
-**Version:** 2.0  
 **Copyright © 2026 Dragen Dispatch**  
 **Maintainer:** MingHon  
 
